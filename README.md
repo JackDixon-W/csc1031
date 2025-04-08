@@ -36,6 +36,7 @@ All compiled `.class` files are ignored by the `.gitignore` to keep the reposito
 
 ```bash
 javac W1/Assignment1.java
+```
 
 Replace W1/Assignment1.java with the path to the Java file you wish to compile.
 
@@ -45,6 +46,7 @@ After compiling, you can run the program using:
 
 ```bash
 java W1.Assignment1Runner
+```
 
 Make sure to replace `Assignment1Runner` with the appropriate runner class for your specific assignment.
 
