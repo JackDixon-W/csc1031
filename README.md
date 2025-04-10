@@ -50,7 +50,11 @@ java W1.Assignment1Runner
 
 Make sure to replace `Assignment1Runner` with the appropriate runner class for your specific assignment.
 
-## Additional Notes
+### Missing Week
+
+W7 is missing due to this being a reading week.
+
+### Additional Notes
 
 Due to this module being entirely based around java, there was of course a lot of little things that had to be changed for the testing service to properly accept the files.
 With the given file structure, VSCode would always cite an error if I didn't include the package name at the top of the file. But this would of course break once uploaded, so much of it is commented out.
@@ -58,4 +62,3 @@ With the given file structure, VSCode would always cite an error if I didn't inc
 To mention one other difficulty, in Week 6 the different versions of GameLobby all required the class to be internally referred to as GameLobby, despite the file name changing across versions. I didn't even realise until GameLobby3 that I was supposed to have been calling getPlayerName() getName() instead.
 
 Basically, these files are weird and I wouldn't recommend running them by themselves without expecting to have to fix a handful of errors.
-
