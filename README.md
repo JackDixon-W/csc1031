@@ -50,11 +50,11 @@ java W1.Assignment1Runner
 
 Make sure to replace `Assignment1Runner` with the appropriate runner class for your specific assignment.
 
-### Missing Week
+## Missing Week
 
 W7 is missing due to this being a reading week.
 
-### Additional Notes
+## Additional Notes
 
 Due to this module being entirely based around java, there was of course a lot of little things that had to be changed for the testing service to properly accept the files.
 With the given file structure, VSCode would always cite an error if I didn't include the package name at the top of the file. But this would of course break once uploaded, so much of it is commented out.
